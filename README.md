@@ -7,7 +7,7 @@ Técnicas de Visualização: Aplicação de boas práticas e recursos avançados
 Testes: Análises e experimentos com diferentes fontes de dados e funcionalidades do Power BI.  
 
 ### Como Usar
-Clone este repositório: git clone https://github.com/seu-usuario/repo-powerbi.git  
+Clone este repositório: git clone https://github.com/ds-diogo/power_bi  
 Abra os arquivos .pbix no Power BI Desktop para explorar as análises.  
 
 ### Objetivo
